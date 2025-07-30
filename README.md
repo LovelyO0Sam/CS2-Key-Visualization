@@ -96,7 +96,7 @@ python key-visualization.py "demos/premier.dem" "ZywOo" "vids/ZywOo_ace" --ticks
 
 This project uses the following open-source libraries:
 
-- **[demoparser2](https://github.com/LaihoE/demoparser2):** (MIT License)
+- **[demoparser2](https://github.com/LaihoE/demoparser):** (MIT License)
 - **[Pandas](https://pandas.pydata.org/):** (BSD 3-Clause License)
 - **[NumPy](https://numpy.org/):** (BSD 3-Clause License)
 - **[OpenCV-Python](https://pypi.org/project/opencv-python/):** (MIT License)
